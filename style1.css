@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0%;
+  
+}
+
+body {
+  background-color:rgb(127, 124, 124);
+  color: #333;
+  
+  font-family:'Roboto', sans-serif;
+  background-image:url(/solarlux-glas-faltwand-sl97-ref00416-ci2018.jpg) ;
+  background-size:cover ;
+ 
+}
+
+
+ul {
+
+  list-style-type: none;
+  margin:0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333333;
+  
+}
+
+li {
+  float: left;
+}
+
+
+a {
+  display: block;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  background-color: rgb(85, 78, 78, 0.5);
+}
+#aze{
+  
+  display: inline;
+  height: 200px;
+  width: 1500px;
+text-align: center;
+margin-top: 00px;
+
+}
+#qsd{
+  display:inline;
+  height: 150px;
+  width: 150px;
+  
+  padding-top: 0px;
+padding-left: 600px;
+  padding-bottom: 0px;
+position: absolute;
+  
+}
+#abc{
+  display: block;
+  height: 200px;
+  width: 1000px;
+  margin-left: 200px;
+  margin-top: 50px;
+  position: relative;
+  
+}
+#workp{
+  display: inline;
+  height: 200px;
+  width: 1500px;
+text-align: center;
+margin-top: 00px;
+
+}
+
+#worki{
+  display:inline;
+  height: 150px;
+  width: 150px;
+  margin-left: 600px;
+}
+#work{
+  display: block;
+  height: 200px;
+  width: 1000px;
+  margin-left: 200px;
+  margin-top: 50px;
+  position: relative;
+}
+footer>a{
+display:block;
+position: relative;
+}
